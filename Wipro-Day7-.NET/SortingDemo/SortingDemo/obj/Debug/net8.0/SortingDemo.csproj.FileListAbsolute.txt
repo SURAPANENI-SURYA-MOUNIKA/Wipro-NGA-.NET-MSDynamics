@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\bin\Debug\net8.0\SortingDemo.exe
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\bin\Debug\net8.0\SortingDemo.deps.json
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\bin\Debug\net8.0\SortingDemo.runtimeconfig.json
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\bin\Debug\net8.0\SortingDemo.dll
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\bin\Debug\net8.0\SortingDemo.pdb
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.AssemblyInfo.cs
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.sourcelink.json
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.dll
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\obj\Debug\net8.0\refint\SortingDemo.dll
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.pdb
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.genruntimeconfig.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\SortingDemo\SortingDemo\obj\Debug\net8.0\ref\SortingDemo.dll

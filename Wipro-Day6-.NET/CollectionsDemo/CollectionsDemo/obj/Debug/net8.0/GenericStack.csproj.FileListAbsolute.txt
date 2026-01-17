@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\GenericStack.exe
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\GenericStack.deps.json
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\GenericStack.runtimeconfig.json
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\GenericStack.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\GenericStack.pdb
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\GenericStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\GenericStack.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\GenericStack.AssemblyInfo.cs
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\GenericStack.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\GenericStack.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\refint\GenericStack.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\GenericStack.pdb
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\GenericStack.genruntimeconfig.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\ref\GenericStack.dll

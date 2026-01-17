@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\bin\Debug\net8.0\Deligates-Indexers-properties-demo.exe
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\bin\Debug\net8.0\Deligates-Indexers-properties-demo.deps.json
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\bin\Debug\net8.0\Deligates-Indexers-properties-demo.runtimeconfig.json
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\bin\Debug\net8.0\Deligates-Indexers-properties-demo.dll
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\bin\Debug\net8.0\Deligates-Indexers-properties-demo.pdb
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\obj\Debug\net8.0\Deligates-Indexers-properties-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\obj\Debug\net8.0\Deligates-Indexers-properties-demo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\obj\Debug\net8.0\Deligates-Indexers-properties-demo.AssemblyInfo.cs
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\obj\Debug\net8.0\Deligates-Indexers-properties-demo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\obj\Debug\net8.0\Deligates-Indexers-properties-demo.sourcelink.json
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\obj\Debug\net8.0\Deligates-Indexers-properties-demo.dll
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\obj\Debug\net8.0\refint\Deligates-Indexers-properties-demo.dll
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\obj\Debug\net8.0\Deligates-Indexers-properties-demo.pdb
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\obj\Debug\net8.0\Deligates-Indexers-properties-demo.genruntimeconfig.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day7-.NET\Deligates-Indexers-properties-demo\Deligates-Indexers-properties-demo\obj\Debug\net8.0\ref\Deligates-Indexers-properties-demo.dll

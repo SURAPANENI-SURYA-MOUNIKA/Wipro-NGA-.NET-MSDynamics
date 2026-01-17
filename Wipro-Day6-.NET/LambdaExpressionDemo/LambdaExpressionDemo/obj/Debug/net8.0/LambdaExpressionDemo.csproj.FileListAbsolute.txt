@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\bin\Debug\net8.0\LambdaExpressionDemo.exe
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\bin\Debug\net8.0\LambdaExpressionDemo.deps.json
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\bin\Debug\net8.0\LambdaExpressionDemo.runtimeconfig.json
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\bin\Debug\net8.0\LambdaExpressionDemo.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\bin\Debug\net8.0\LambdaExpressionDemo.pdb
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\obj\Debug\net8.0\LambdaExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\obj\Debug\net8.0\LambdaExpressionDemo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\obj\Debug\net8.0\LambdaExpressionDemo.AssemblyInfo.cs
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\obj\Debug\net8.0\LambdaExpressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\obj\Debug\net8.0\LambdaExpressionDemo.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\obj\Debug\net8.0\refint\LambdaExpressionDemo.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\obj\Debug\net8.0\LambdaExpressionDemo.pdb
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\obj\Debug\net8.0\LambdaExpressionDemo.genruntimeconfig.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\LambdaExpressionDemo\LambdaExpressionDemo\obj\Debug\net8.0\ref\LambdaExpressionDemo.dll

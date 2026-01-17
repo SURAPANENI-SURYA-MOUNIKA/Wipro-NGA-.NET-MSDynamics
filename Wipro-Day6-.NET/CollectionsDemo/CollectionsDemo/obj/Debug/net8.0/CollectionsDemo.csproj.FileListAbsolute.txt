@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.exe
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.deps.json
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.runtimeconfig.json
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.pdb
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfo.cs
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\refint\CollectionsDemo.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.pdb
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.genruntimeconfig.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\ref\CollectionsDemo.dll

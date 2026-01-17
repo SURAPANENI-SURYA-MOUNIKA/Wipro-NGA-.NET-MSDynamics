@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\bin\Debug\net8.0\NonGeniricStack.exe
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\bin\Debug\net8.0\NonGeniricStack.deps.json
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\bin\Debug\net8.0\NonGeniricStack.runtimeconfig.json
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\bin\Debug\net8.0\NonGeniricStack.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\bin\Debug\net8.0\NonGeniricStack.pdb
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\obj\Debug\net8.0\NonGeniricStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\obj\Debug\net8.0\NonGeniricStack.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\obj\Debug\net8.0\NonGeniricStack.AssemblyInfo.cs
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\obj\Debug\net8.0\NonGeniricStack.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\obj\Debug\net8.0\NonGeniricStack.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\obj\Debug\net8.0\refint\NonGeniricStack.dll
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\obj\Debug\net8.0\NonGeniricStack.pdb
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\obj\Debug\net8.0\NonGeniricStack.genruntimeconfig.cache
+C:\Users\hp\Desktop\Wipro-Day6- NET\NonGeniricStack\NonGeniricStack\obj\Debug\net8.0\ref\NonGeniricStack.dll

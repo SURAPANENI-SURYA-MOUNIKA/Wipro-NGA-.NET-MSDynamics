@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\bin\Debug\net8.0\ecommercedemo.exe
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\bin\Debug\net8.0\ecommercedemo.deps.json
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\bin\Debug\net8.0\ecommercedemo.runtimeconfig.json
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\bin\Debug\net8.0\ecommercedemo.dll
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\bin\Debug\net8.0\ecommercedemo.pdb
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\obj\Debug\net8.0\ecommercedemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\obj\Debug\net8.0\ecommercedemo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\obj\Debug\net8.0\ecommercedemo.AssemblyInfo.cs
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\obj\Debug\net8.0\ecommercedemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\obj\Debug\net8.0\ecommercedemo.sourcelink.json
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\obj\Debug\net8.0\ecommercedemo.dll
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\obj\Debug\net8.0\refint\ecommercedemo.dll
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\obj\Debug\net8.0\ecommercedemo.pdb
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\obj\Debug\net8.0\ecommercedemo.genruntimeconfig.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day-8-.NET\ecommercedemo\ecommercedemo\obj\Debug\net8.0\ref\ecommercedemo.dll
